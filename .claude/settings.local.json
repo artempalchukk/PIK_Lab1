@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "PowerShell(& \"C:\\\\Program Files\\\\dotnet\\\\dotnet.exe\" --list-sdks 2>&1)",
-      "PowerShell(& \"C:\\\\Program Files\\\\dotnet\\\\dotnet.exe\" --version 2>&1)",
-      "Read(//c/Windows/Microsoft.NET/Framework64/v4.0.30319/**)"
-    ]
-  }
-}
